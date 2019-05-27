@@ -1,0 +1,7 @@
+C:\Users\arshd\rehan\rehan\bin\Debug\rehan.exe.config
+C:\Users\arshd\rehan\rehan\bin\Debug\rehan.exe
+C:\Users\arshd\rehan\rehan\bin\Debug\rehan.pdb
+C:\Users\arshd\rehan\rehan\obj\Debug\rehan.csprojAssemblyReference.cache
+C:\Users\arshd\rehan\rehan\obj\Debug\rehan.csproj.CoreCompileInputs.cache
+C:\Users\arshd\rehan\rehan\obj\Debug\rehan.exe
+C:\Users\arshd\rehan\rehan\obj\Debug\rehan.pdb

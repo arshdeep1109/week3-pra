@@ -1,0 +1,7 @@
+C:\Users\arshd\rehan\rehan\practice assign\practice assign\obj\Debug\practice assign.csproj.CoreCompileInputs.cache
+C:\Users\arshd\rehan\rehan\practice assign\practice assign\bin\Debug\practice assign.exe.config
+C:\Users\arshd\rehan\rehan\practice assign\practice assign\bin\Debug\practice assign.exe
+C:\Users\arshd\rehan\rehan\practice assign\practice assign\bin\Debug\practice assign.pdb
+C:\Users\arshd\rehan\rehan\practice assign\practice assign\obj\Debug\practice assign.exe
+C:\Users\arshd\rehan\rehan\practice assign\practice assign\obj\Debug\practice assign.pdb
+C:\Users\arshd\rehan\rehan\practice assign\practice assign\obj\Debug\practice assign.csprojAssemblyReference.cache
